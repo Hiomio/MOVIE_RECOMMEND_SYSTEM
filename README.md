@@ -1,4 +1,4 @@
-# MOVIE_RECOMMEND_SYSTEM
+# ENHANCED MOVIE RECOMMENDATION SYSTEM 
 Description:
 Developed a movie recommendation system using Python, Streamlit, and The Movie Database (TMDb) API. The system recommends movies based on similarity to a selected movie and displays their posters.
 
